@@ -30,8 +30,6 @@ In this repository, you find:
 
 - *README.md* : the analysis of the code in *run_analysis.R*
 
-- *analysis.html* : the html version of *README.md* that can be accessed at https://github.com/paula0389/Getting_and_Cleaning_Data_Course_Project/blob/master/run_analysis.R
-
 ## Getting Started
 
 ###Basic Assumption
