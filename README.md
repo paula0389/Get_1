@@ -24,7 +24,7 @@ In this repository, you find:
 
 - *run_analysis.R* : the R-code run on the data set
 
-- *Tidy.txt* : the clean data extracted from the original data using *run_analysis.R*
+- *TidyData.txt* : the clean data extracted from the original data using *run_analysis.R*
 
 - *CodeBook.md* : the CodeBook reference to the variables in *Tidy.txt*
 
